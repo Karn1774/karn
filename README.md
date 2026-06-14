@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Karn+👋;Full-Stack+%26+Systems+Developer;C%2B%2B+%7C+Pawn+%7C+Java+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://camo.githubusercontent.com/9796236b3dbdf71289cf04db355d95d13fa897db6705ec76db78e90695038b33/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d3330266475726174696f6e3d333530532670617573653d3130303026636f6c6f723d3030443246462663656e7465723d74727565267643656e7465723d747275652677696474683d373030266c696e65733d48692b74686572652532432b49276d2b4b61726e2b2546302539462539322538423b46756c6c2d537461636b2b2532362b53797374656d732b446576656c6f7065723b432532422532422b2537432b5061776e2b2537432b4a6176612b2537432b4a617661536372697074" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -44,14 +44,10 @@ I am a dedicated **Software Engineer** specializing in bridging the gap between 
 
 ---
 
-## 📊 GitHub Interactive Stats (Real-time)
-
+## 🏆 GitHub Profile Trophies
+<!-- เปลี่ยนมาใช้ระบบถ้วยรางวัลแอนิเมชัน โหลดง่าย สวยงาม ไม่พังแน่นอน -->
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Karn1774&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Karn's GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn1774&layout=compact&theme=tokyonight" alt="Karn's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karn1774&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Karn's Trophies" />
 </p>
 
 ---
