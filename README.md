@@ -85,4 +85,4 @@ Systems architecture, high-performance backends, and clean frontend — sometime
 
 ---
 
-<sub>Karn · 2025 · freelance · remote · full-time</sub>
+<sub>Karn · 2026 · freelance · remote · full-time</sub>
