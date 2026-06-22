@@ -20,7 +20,7 @@
 ---
 
 # Karn.
-`// full-stack & systems engineer`
+`// my-stack & systems engineer`
 
 I build things close to the metal and ship them to the browser.  
 Systems architecture, high-performance backends, and clean frontend — sometimes all three in the same week.
